@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   // templateUrl: './app.component.html',
   template: `
   <div><h1>{{pageTitle}}</h1>
-    <div>My First Component</div>
+    <pm-products></pm-products>
   <div>`,
   styleUrls: ['./app.component.css']
 })
